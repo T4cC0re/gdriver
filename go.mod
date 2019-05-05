@@ -1,4 +1,4 @@
-module github.com/Eun/gdriver
+module github.com/T4cC0re/gdriver
 
 go 1.12
 
@@ -18,5 +18,3 @@ require (
 	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect
 	gopkg.in/yaml.v2 v2.2.2 // indirect
 )
-
-replace github.com/Eun/gdriver => ./

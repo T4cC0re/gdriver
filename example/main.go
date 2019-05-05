@@ -6,8 +6,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/Eun/gdriver"
-	"github.com/Eun/gdriver/oauthhelper"
+	"github.com/T4cC0re/gdriver"
+	"github.com/T4cC0re/gdriver/oauthhelper"
 )
 
 func main() {

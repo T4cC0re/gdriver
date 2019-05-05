@@ -18,7 +18,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Eun/gdriver/oauthhelper"
+	"github.com/T4cC0re/gdriver/oauthhelper"
 	"github.com/hjson/hjson-go"
 	"github.com/stretchr/testify/require"
 	"golang.org/x/oauth2"
